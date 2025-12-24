@@ -1,0 +1,9 @@
+# Dépendances (Le plus important)
+node_modules/
+
+# Fichiers d'environnement (Sécurité)
+.env
+
+# Logs et fichiers système
+npm-debug.log
+.DS_Store
